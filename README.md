@@ -8,4 +8,4 @@ This project involved the design of a customized staircase in an existing lobby 
 ### Tools Used
 The stairs were developed in GH/Rhino and integrated in Revit in the design of the newly renovated lobby and outdoor seating area on the upper floor. The first attempts was to try use ready-made definitons like the one by Forst Hell. However, the complex shape (developed by a spiral curve) couldnt be achieved. Accordingly, the desingn was developed from scratch by GH nodes but still putting in consideration the workflow of Forst Hell. 
 
-![Uploading 20200511_IBIS_FOR_AXONOMETRYV2.png…]()
+![20200511_IBIS_FOR_AXONOMETRYV2_GITHUB](https://user-images.githubusercontent.com/31185492/97473048-cea31280-194a-11eb-8574-cc43295b16e6.png)
