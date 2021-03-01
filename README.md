@@ -1,4 +1,4 @@
-# AA_Scala_Reception
+# A4_Scala_Reception
 
 ### Concept
 This project involved the design of a customized staircase in an existing lobby of a hotel.Being placed in the centre of the lobby, the project complexity lied in designing an appealing form that fits within the surrounding while solving the structural constraints defined by the available slab area on the upper floor that can be demolished for the stairs to reach the upper floor. The upper floor represents an "outdoor" sitting area and bar, which is also newly designed to allow for more outdoor, aerated environment for the customers. 
